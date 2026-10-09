@@ -1,0 +1,6 @@
+{
+  "name": "SmartProcure – Farmer Procurement & Queue Management System",
+  "description": "Digital platform for farmers to register, book procurement slots, monitor queues in real time, receive notifications, and track procurement and payment status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
